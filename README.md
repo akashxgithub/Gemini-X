@@ -1,8 +1,14 @@
-# React + Vite
+Gemini X , a generative AI cutting-edge web application built using React JS and the Google Gemini API. This project is designed to harness the power of generative AI to create and manage diverse types of content. By integrating with the Google Gemini API, the app offers users a robust platform to interact with and utilize AI-generated data, making it a versatile tool for a range of applications.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Tech Stack 
+-Frontend: React JS
+-API Integration: Google Gemini API
+-Styling: CSS
+-Build Tool: Vite (or your preferred build tool)
+-Version Control: Git
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+-Generative AI Capabilities
+-Interactive User Interface
+-Real-Time Content Generation
+-Performance Optimization
